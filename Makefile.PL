@@ -29,4 +29,5 @@ WriteMakefile(
     },
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean               => { FILES => 'Syntax-Highlight-Engine-Simple-*' },
+    LICENSE             => 'perl_5',
 );

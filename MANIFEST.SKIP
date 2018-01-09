@@ -16,3 +16,4 @@ MYMETA\.(json|yml)$
 ^cover_db/
 ^nytprof/
 nytprof.out
+^Syntax-Highlight-Engine-Simple-\d+\..*
